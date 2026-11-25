@@ -1,0 +1,721 @@
+language,level,model,accuracy
+Pichi,S,qwen2.5-7b,31.48
+Pichi,S,qwen2.5-32b,37.91
+Pichi,S,gemma3-4b,33.45
+Pichi,S,gemma3-12b,44.27
+Pichi,S,gemma3-27b,42.83
+Pichi,S,deepseek-r1-7b,30.97
+Pichi,S,deepseek-r1-32b,41.43
+Pichi,S,llama3-8b,30.29
+Pichi,S,llama3-70b,36.33
+Pichi,S,o4-mini,42.45
+Pichi,S+G,qwen2.5-7b,46.03
+Pichi,S+G,qwen2.5-32b,48.31
+Pichi,S+G,gemma3-4b,43.57
+Pichi,S+G,gemma3-12b,49.51
+Pichi,S+G,gemma3-27b,51.05
+Pichi,S+G,deepseek-r1-7b,37.15
+Pichi,S+G,deepseek-r1-32b,53.03
+Pichi,S+G,llama3-8b,35.1
+Pichi,S+G,llama3-70b,48.91
+Pichi,S+G,o4-mini,47.79
+Pichi,S+G+KP,qwen2.5-7b,61.0
+Pichi,S+G+KP,qwen2.5-32b,65.32
+Pichi,S+G+KP,gemma3-4b,57.34
+Pichi,S+G+KP,gemma3-12b,62.02
+Pichi,S+G+KP,gemma3-27b,65.43
+Pichi,S+G+KP,deepseek-r1-7b,48.25
+Pichi,S+G+KP,deepseek-r1-32b,68.75
+Pichi,S+G+KP,llama3-8b,41.78
+Pichi,S+G+KP,llama3-70b,66.9
+Pichi,S+G+KP,o4-mini,60.4
+Pichi,S+G+KP+T,qwen2.5-7b,73.86
+Pichi,S+G+KP+T,qwen2.5-32b,79.86
+Pichi,S+G+KP+T,gemma3-4b,69.15
+Pichi,S+G+KP+T,gemma3-12b,75.86
+Pichi,S+G+KP+T,gemma3-27b,79.23
+Pichi,S+G+KP+T,deepseek-r1-7b,60.26
+Pichi,S+G+KP+T,deepseek-r1-32b,81.24
+Pichi,S+G+KP+T,llama3-8b,53.51
+Pichi,S+G+KP+T,llama3-70b,82.31
+Pichi,S+G+KP+T,o4-mini,75.47
+Gyeli,S,qwen2.5-7b,26.48
+Gyeli,S,qwen2.5-32b,29.52
+Gyeli,S,gemma3-4b,30.1
+Gyeli,S,gemma3-12b,34.44
+Gyeli,S,gemma3-27b,30.68
+Gyeli,S,deepseek-r1-7b,32.88
+Gyeli,S,deepseek-r1-32b,27.49
+Gyeli,S,llama3-8b,30.68
+Gyeli,S,llama3-70b,28.51
+Gyeli,S,o4-mini,32.13
+Gyeli,S+G,qwen2.5-7b,35.75
+Gyeli,S+G,qwen2.5-32b,39.13
+Gyeli,S+G,gemma3-4b,35.31
+Gyeli,S+G,gemma3-12b,39.94
+Gyeli,S+G,gemma3-27b,39.94
+Gyeli,S+G,deepseek-r1-7b,34.99
+Gyeli,S+G,deepseek-r1-32b,38.14
+Gyeli,S+G,llama3-8b,20.09
+Gyeli,S+G,llama3-70b,34.15
+Gyeli,S+G,o4-mini,40.09
+Gyeli,S+G+KP,qwen2.5-7b,55.57
+Gyeli,S+G+KP,qwen2.5-32b,60.78
+Gyeli,S+G+KP,gemma3-4b,46.89
+Gyeli,S+G+KP,gemma3-12b,60.35
+Gyeli,S+G+KP,gemma3-27b,63.53
+Gyeli,S+G+KP,deepseek-r1-7b,47.54
+Gyeli,S+G+KP,deepseek-r1-32b,63.5
+Gyeli,S+G+KP,llama3-8b,39.36
+Gyeli,S+G+KP,llama3-70b,58.61
+Gyeli,S+G+KP,o4-mini,57.6
+Gyeli,S+G+KP+T,qwen2.5-7b,64.25
+Gyeli,S+G+KP+T,qwen2.5-32b,72.21
+Gyeli,S+G+KP+T,gemma3-4b,56.44
+Gyeli,S+G+KP+T,gemma3-12b,67.29
+Gyeli,S+G+KP+T,gemma3-27b,73.95
+Gyeli,S+G+KP+T,deepseek-r1-7b,57.16
+Gyeli,S+G+KP+T,deepseek-r1-32b,76.06
+Gyeli,S+G+KP+T,llama3-8b,47.03
+Gyeli,S+G+KP+T,llama3-70b,71.92
+Gyeli,S+G+KP+T,o4-mini,70.62
+Moloko,S,qwen2.5-7b,25.97
+Moloko,S,qwen2.5-32b,29.84
+Moloko,S,gemma3-4b,28.93
+Moloko,S,gemma3-12b,41.46
+Moloko,S,gemma3-27b,33.26
+Moloko,S,deepseek-r1-7b,29.76
+Moloko,S,deepseek-r1-32b,28.34
+Moloko,S,llama3-8b,22.78
+Moloko,S,llama3-70b,27.56
+Moloko,S,o4-mini,34.4
+Moloko,S+G,qwen2.5-7b,38.29
+Moloko,S+G,qwen2.5-32b,36.9
+Moloko,S+G,gemma3-4b,33.71
+Moloko,S+G,gemma3-12b,46.47
+Moloko,S+G,gemma3-27b,47.38
+Moloko,S+G,deepseek-r1-7b,30.68
+Moloko,S+G,deepseek-r1-32b,36.83
+Moloko,S+G,llama3-8b,28.7
+Moloko,S+G,llama3-70b,35.31
+Moloko,S+G,o4-mini,43.51
+Moloko,S+G+KP,qwen2.5-7b,51.94
+Moloko,S+G+KP,qwen2.5-32b,61.05
+Moloko,S+G+KP,gemma3-4b,47.84
+Moloko,S+G+KP,gemma3-12b,59.68
+Moloko,S+G+KP,gemma3-27b,63.55
+Moloko,S+G+KP,deepseek-r1-7b,46.42
+Moloko,S+G+KP,deepseek-r1-32b,64.45
+Moloko,S+G+KP,llama3-8b,40.32
+Moloko,S+G+KP,llama3-70b,64.01
+Moloko,S+G+KP,o4-mini,59.45
+Moloko,S+G+KP+T,qwen2.5-7b,67.88
+Moloko,S+G+KP+T,qwen2.5-32b,77.9
+Moloko,S+G+KP+T,gemma3-4b,65.15
+Moloko,S+G+KP+T,gemma3-12b,71.75
+Moloko,S+G+KP+T,gemma3-27b,78.36
+Moloko,S+G+KP+T,deepseek-r1-7b,57.14
+Moloko,S+G+KP+T,deepseek-r1-32b,80.59
+Moloko,S+G+KP+T,llama3-8b,45.79
+Moloko,S+G+KP+T,llama3-70b,81.55
+Moloko,S+G+KP+T,o4-mini,72.89
+Fwe,S,qwen2.5-7b,35.37
+Fwe,S,qwen2.5-32b,40.82
+Fwe,S,gemma3-4b,37.41
+Fwe,S,gemma3-12b,42.86
+Fwe,S,gemma3-27b,36.73
+Fwe,S,deepseek-r1-7b,29.55
+Fwe,S,deepseek-r1-32b,33.33
+Fwe,S,llama3-8b,29.93
+Fwe,S,llama3-70b,38.78
+Fwe,S,o4-mini,36.73
+Fwe,S+G,qwen2.5-7b,44.22
+Fwe,S+G,qwen2.5-32b,47.62
+Fwe,S+G,gemma3-4b,43.54
+Fwe,S+G,gemma3-12b,40.14
+Fwe,S+G,gemma3-27b,40.82
+Fwe,S+G,deepseek-r1-7b,32.35
+Fwe,S+G,deepseek-r1-32b,50.0
+Fwe,S+G,llama3-8b,29.25
+Fwe,S+G,llama3-70b,34.01
+Fwe,S+G,o4-mini,41.5
+Fwe,S+G+KP,qwen2.5-7b,59.18
+Fwe,S+G+KP,qwen2.5-32b,63.27
+Fwe,S+G+KP,gemma3-4b,49.66
+Fwe,S+G+KP,gemma3-12b,57.14
+Fwe,S+G+KP,gemma3-27b,63.27
+Fwe,S+G+KP,deepseek-r1-7b,53.44
+Fwe,S+G+KP,deepseek-r1-32b,69.44
+Fwe,S+G+KP,llama3-8b,36.73
+Fwe,S+G+KP,llama3-70b,61.09
+Fwe,S+G+KP,o4-mini,63.27
+Fwe,S+G+KP+T,qwen2.5-7b,65.31
+Fwe,S+G+KP+T,qwen2.5-32b,77.55
+Fwe,S+G+KP+T,gemma3-4b,63.27
+Fwe,S+G+KP+T,gemma3-12b,69.39
+Fwe,S+G+KP+T,gemma3-27b,73.47
+Fwe,S+G+KP+T,deepseek-r1-7b,55.47
+Fwe,S+G+KP+T,deepseek-r1-32b,78.32
+Fwe,S+G+KP+T,llama3-8b,48.98
+Fwe,S+G+KP+T,llama3-70b,71.43
+Fwe,S+G+KP+T,o4-mini,68.71
+Papuan Malay,S,qwen2.5-7b,39.8
+Papuan Malay,S,qwen2.5-32b,49.76
+Papuan Malay,S,gemma3-4b,42.3
+Papuan Malay,S,gemma3-12b,50.82
+Papuan Malay,S,gemma3-27b,49.52
+Papuan Malay,S,deepseek-r1-7b,38.37
+Papuan Malay,S,deepseek-r1-32b,49.2
+Papuan Malay,S,llama3-8b,33.3
+Papuan Malay,S,llama3-70b,42.14
+Papuan Malay,S,o4-mini,54.3
+Papuan Malay,S+G,qwen2.5-7b,43.12
+Papuan Malay,S+G,qwen2.5-32b,51.73
+Papuan Malay,S+G,gemma3-4b,43.63
+Papuan Malay,S+G,gemma3-12b,52.89
+Papuan Malay,S+G,gemma3-27b,50.77
+Papuan Malay,S+G,deepseek-r1-7b,38.46
+Papuan Malay,S+G,deepseek-r1-32b,52.08
+Papuan Malay,S+G,llama3-8b,32.58
+Papuan Malay,S+G,llama3-70b,45.42
+Papuan Malay,S+G,o4-mini,54.12
+Papuan Malay,S+G+KP,qwen2.5-7b,57.89
+Papuan Malay,S+G+KP,qwen2.5-32b,63.52
+Papuan Malay,S+G+KP,gemma3-4b,52.52
+Papuan Malay,S+G+KP,gemma3-12b,63.78
+Papuan Malay,S+G+KP,gemma3-27b,65.37
+Papuan Malay,S+G+KP,deepseek-r1-7b,48.28
+Papuan Malay,S+G+KP,deepseek-r1-32b,68.3
+Papuan Malay,S+G+KP,llama3-8b,44.8
+Papuan Malay,S+G+KP,llama3-70b,62.42
+Papuan Malay,S+G+KP,o4-mini,62.83
+Papuan Malay,S+G+KP+T,qwen2.5-7b,77.51
+Papuan Malay,S+G+KP+T,qwen2.5-32b,82.97
+Papuan Malay,S+G+KP+T,gemma3-4b,68.91
+Papuan Malay,S+G+KP+T,gemma3-12b,80.64
+Papuan Malay,S+G+KP+T,gemma3-27b,81.41
+Papuan Malay,S+G+KP+T,deepseek-r1-7b,64.38
+Papuan Malay,S+G+KP+T,deepseek-r1-32b,84.73
+Papuan Malay,S+G+KP+T,llama3-8b,60.12
+Papuan Malay,S+G+KP+T,llama3-70b,81.86
+Papuan Malay,S+G+KP+T,o4-mini,81.12
+Rapa Nui,S,qwen2.5-7b,38.68
+Rapa Nui,S,qwen2.5-32b,37.62
+Rapa Nui,S,gemma3-4b,28.91
+Rapa Nui,S,gemma3-12b,43.89
+Rapa Nui,S,gemma3-27b,40.26
+Rapa Nui,S,deepseek-r1-7b,28.38
+Rapa Nui,S,deepseek-r1-32b,43.1
+Rapa Nui,S,llama3-8b,31.01
+Rapa Nui,S,llama3-70b,40.78
+Rapa Nui,S,o4-mini,39.56
+Rapa Nui,S+G,qwen2.5-7b,51.84
+Rapa Nui,S+G,qwen2.5-32b,53.0
+Rapa Nui,S+G,gemma3-4b,41.95
+Rapa Nui,S+G,gemma3-12b,46.58
+Rapa Nui,S+G,gemma3-27b,48.51
+Rapa Nui,S+G,deepseek-r1-7b,35.19
+Rapa Nui,S+G,deepseek-r1-32b,53.57
+Rapa Nui,S+G,llama3-8b,34.87
+Rapa Nui,S+G,llama3-70b,53.31
+Rapa Nui,S+G,o4-mini,52.08
+Rapa Nui,S+G+KP,qwen2.5-7b,60.62
+Rapa Nui,S+G+KP,qwen2.5-32b,63.39
+Rapa Nui,S+G+KP,gemma3-4b,46.99
+Rapa Nui,S+G+KP,gemma3-12b,57.28
+Rapa Nui,S+G+KP,gemma3-27b,55.59
+Rapa Nui,S+G+KP,deepseek-r1-7b,41.53
+Rapa Nui,S+G+KP,deepseek-r1-32b,65.62
+Rapa Nui,S+G+KP,llama3-8b,38.99
+Rapa Nui,S+G+KP,llama3-70b,64.97
+Rapa Nui,S+G+KP,o4-mini,53.01
+Rapa Nui,S+G+KP+T,qwen2.5-7b,73.96
+Rapa Nui,S+G+KP+T,qwen2.5-32b,82.16
+Rapa Nui,S+G+KP+T,gemma3-4b,62.79
+Rapa Nui,S+G+KP+T,gemma3-12b,70.39
+Rapa Nui,S+G+KP+T,gemma3-27b,72.62
+Rapa Nui,S+G+KP+T,deepseek-r1-7b,52.59
+Rapa Nui,S+G+KP+T,deepseek-r1-32b,81.98
+Rapa Nui,S+G+KP+T,llama3-8b,47.51
+Rapa Nui,S+G+KP+T,llama3-70b,80.68
+Rapa Nui,S+G+KP+T,o4-mini,70.39
+Kagayanen,S,qwen2.5-7b,30.36
+Kagayanen,S,qwen2.5-32b,38.18
+Kagayanen,S,gemma3-4b,33.09
+Kagayanen,S,gemma3-12b,39.82
+Kagayanen,S,gemma3-27b,39.82
+Kagayanen,S,deepseek-r1-7b,30.26
+Kagayanen,S,deepseek-r1-32b,38.64
+Kagayanen,S,llama3-8b,25.64
+Kagayanen,S,llama3-70b,34.73
+Kagayanen,S,o4-mini,40.91
+Kagayanen,S+G,qwen2.5-7b,43.64
+Kagayanen,S+G,qwen2.5-32b,46.73
+Kagayanen,S+G,gemma3-4b,39.82
+Kagayanen,S+G,gemma3-12b,41.82
+Kagayanen,S+G,gemma3-27b,45.82
+Kagayanen,S+G,deepseek-r1-7b,32.45
+Kagayanen,S+G,deepseek-r1-32b,48.7
+Kagayanen,S+G,llama3-8b,32.18
+Kagayanen,S+G,llama3-70b,47.09
+Kagayanen,S+G,o4-mini,45.45
+Kagayanen,S+G+KP,qwen2.5-7b,53.45
+Kagayanen,S+G+KP,qwen2.5-32b,55.64
+Kagayanen,S+G+KP,gemma3-4b,50.73
+Kagayanen,S+G+KP,gemma3-12b,53.64
+Kagayanen,S+G+KP,gemma3-27b,57.45
+Kagayanen,S+G+KP,deepseek-r1-7b,42.7
+Kagayanen,S+G+KP,deepseek-r1-32b,65.06
+Kagayanen,S+G+KP,llama3-8b,39.09
+Kagayanen,S+G+KP,llama3-70b,56.0
+Kagayanen,S+G+KP,o4-mini,54.18
+Kagayanen,S+G+KP+T,qwen2.5-7b,66.73
+Kagayanen,S+G+KP+T,qwen2.5-32b,72.41
+Kagayanen,S+G+KP+T,gemma3-4b,61.64
+Kagayanen,S+G+KP+T,gemma3-12b,69.82
+Kagayanen,S+G+KP+T,gemma3-27b,72.36
+Kagayanen,S+G+KP+T,deepseek-r1-7b,55.7
+Kagayanen,S+G+KP+T,deepseek-r1-32b,80.22
+Kagayanen,S+G+KP+T,llama3-8b,52.73
+Kagayanen,S+G+KP+T,llama3-70b,79.05
+Kagayanen,S+G+KP+T,o4-mini,71.27
+Vamale,S,qwen2.5-7b,31.34
+Vamale,S,qwen2.5-32b,29.85
+Vamale,S,gemma3-4b,35.82
+Vamale,S,gemma3-12b,43.28
+Vamale,S,gemma3-27b,32.84
+Vamale,S,deepseek-r1-7b,39.06
+Vamale,S,deepseek-r1-32b,38.81
+Vamale,S,llama3-8b,31.34
+Vamale,S,llama3-70b,35.82
+Vamale,S,o4-mini,38.81
+Vamale,S+G,qwen2.5-7b,34.33
+Vamale,S+G,qwen2.5-32b,47.76
+Vamale,S+G,gemma3-4b,44.78
+Vamale,S+G,gemma3-12b,50.57
+Vamale,S+G,gemma3-27b,38.81
+Vamale,S+G,deepseek-r1-7b,38.46
+Vamale,S+G,deepseek-r1-32b,48.44
+Vamale,S+G,llama3-8b,23.88
+Vamale,S+G,llama3-70b,29.85
+Vamale,S+G,o4-mini,43.28
+Vamale,S+G+KP,qwen2.5-7b,59.7
+Vamale,S+G+KP,qwen2.5-32b,55.22
+Vamale,S+G+KP,gemma3-4b,56.72
+Vamale,S+G+KP,gemma3-12b,50.75
+Vamale,S+G+KP,gemma3-27b,56.72
+Vamale,S+G+KP,deepseek-r1-7b,45.31
+Vamale,S+G+KP,deepseek-r1-32b,67.16
+Vamale,S+G+KP,llama3-8b,28.36
+Vamale,S+G+KP,llama3-70b,46.27
+Vamale,S+G+KP,o4-mini,55.22
+Vamale,S+G+KP+T,qwen2.5-7b,68.66
+Vamale,S+G+KP+T,qwen2.5-32b,80.6
+Vamale,S+G+KP+T,gemma3-4b,74.63
+Vamale,S+G+KP+T,gemma3-12b,71.64
+Vamale,S+G+KP+T,gemma3-27b,77.61
+Vamale,S+G+KP+T,deepseek-r1-7b,63.64
+Vamale,S+G+KP+T,deepseek-r1-32b,82.09
+Vamale,S+G+KP+T,llama3-8b,50.75
+Vamale,S+G+KP+T,llama3-70b,74.63
+Vamale,S+G+KP+T,o4-mini,73.13
+Komnzo,S,qwen2.5-7b,34.41
+Komnzo,S,qwen2.5-32b,34.27
+Komnzo,S,gemma3-4b,31.88
+Komnzo,S,gemma3-12b,41.47
+Komnzo,S,gemma3-27b,42.88
+Komnzo,S,deepseek-r1-7b,32.68
+Komnzo,S,deepseek-r1-32b,31.23
+Komnzo,S,llama3-8b,26.09
+Komnzo,S,llama3-70b,27.22
+Komnzo,S,o4-mini,33.99
+Komnzo,S+G,qwen2.5-7b,43.16
+Komnzo,S+G,qwen2.5-32b,42.74
+Komnzo,S+G,gemma3-4b,39.63
+Komnzo,S+G,gemma3-12b,43.86
+Komnzo,S+G,gemma3-27b,50.49
+Komnzo,S+G,deepseek-r1-7b,35.61
+Komnzo,S+G,deepseek-r1-32b,42.69
+Komnzo,S+G,llama3-8b,26.66
+Komnzo,S+G,llama3-70b,35.54
+Komnzo,S+G,o4-mini,40.62
+Komnzo,S+G+KP,qwen2.5-7b,55.43
+Komnzo,S+G+KP,qwen2.5-32b,60.08
+Komnzo,S+G+KP,gemma3-4b,51.2
+Komnzo,S+G+KP,gemma3-12b,59.94
+Komnzo,S+G+KP,gemma3-27b,65.59
+Komnzo,S+G+KP,deepseek-r1-7b,49.62
+Komnzo,S+G+KP,deepseek-r1-32b,67.58
+Komnzo,S+G+KP,llama3-8b,37.24
+Komnzo,S+G+KP,llama3-70b,59.76
+Komnzo,S+G+KP,o4-mini,58.39
+Komnzo,S+G+KP+T,qwen2.5-7b,68.41
+Komnzo,S+G+KP+T,qwen2.5-32b,77.29
+Komnzo,S+G+KP+T,gemma3-4b,65.87
+Komnzo,S+G+KP+T,gemma3-12b,73.34
+Komnzo,S+G+KP+T,gemma3-27b,75.46
+Komnzo,S+G+KP+T,deepseek-r1-7b,55.39
+Komnzo,S+G+KP+T,deepseek-r1-32b,83.69
+Komnzo,S+G+KP+T,llama3-8b,46.83
+Komnzo,S+G+KP+T,llama3-70b,75.32
+Komnzo,S+G+KP+T,o4-mini,73.2
+Mauwake,S,qwen2.5-7b,32.4
+Mauwake,S,qwen2.5-32b,41.63
+Mauwake,S,gemma3-4b,33.41
+Mauwake,S,gemma3-12b,48.68
+Mauwake,S,gemma3-27b,46.22
+Mauwake,S,deepseek-r1-7b,35.48
+Mauwake,S,deepseek-r1-32b,39.83
+Mauwake,S,llama3-8b,26.52
+Mauwake,S,llama3-70b,30.78
+Mauwake,S,o4-mini,42.59
+Mauwake,S+G,qwen2.5-7b,38.61
+Mauwake,S+G,qwen2.5-32b,45.57
+Mauwake,S+G,gemma3-4b,38.05
+Mauwake,S+G,gemma3-12b,50.87
+Mauwake,S+G,gemma3-27b,51.32
+Mauwake,S+G,deepseek-r1-7b,34.36
+Mauwake,S+G,deepseek-r1-32b,46.2
+Mauwake,S+G,llama3-8b,28.32
+Mauwake,S+G,llama3-70b,37.16
+Mauwake,S+G,o4-mini,44.15
+Mauwake,S+G+KP,qwen2.5-7b,51.2
+Mauwake,S+G+KP,qwen2.5-32b,57.54
+Mauwake,S+G+KP,gemma3-4b,46.22
+Mauwake,S+G+KP,gemma3-12b,59.54
+Mauwake,S+G+KP,gemma3-27b,61.0
+Mauwake,S+G+KP,deepseek-r1-7b,43.74
+Mauwake,S+G+KP,deepseek-r1-32b,61.54
+Mauwake,S+G+KP,llama3-8b,36.34
+Mauwake,S+G+KP,llama3-70b,51.65
+Mauwake,S+G+KP,o4-mini,56.41
+Mauwake,S+G+KP+T,qwen2.5-7b,64.63
+Mauwake,S+G+KP+T,qwen2.5-32b,73.52
+Mauwake,S+G+KP+T,gemma3-4b,59.6
+Mauwake,S+G+KP+T,gemma3-12b,71.24
+Mauwake,S+G+KP+T,gemma3-27b,77.11
+Mauwake,S+G+KP+T,deepseek-r1-7b,56.23
+Mauwake,S+G+KP+T,deepseek-r1-32b,77.25
+Mauwake,S+G+KP+T,llama3-8b,43.59
+Mauwake,S+G+KP+T,llama3-70b,73.05
+Mauwake,S+G+KP+T,o4-mini,71.8
+Kalamang,S,qwen2.5-7b,28.81
+Kalamang,S,qwen2.5-32b,38.26
+Kalamang,S,gemma3-4b,31.4
+Kalamang,S,gemma3-12b,39.33
+Kalamang,S,gemma3-27b,38.11
+Kalamang,S,deepseek-r1-7b,34.69
+Kalamang,S,deepseek-r1-32b,37.85
+Kalamang,S,llama3-8b,27.44
+Kalamang,S,llama3-70b,32.47
+Kalamang,S,o4-mini,39.48
+Kalamang,S+G,qwen2.5-7b,35.37
+Kalamang,S+G,qwen2.5-32b,45.73
+Kalamang,S+G,gemma3-4b,36.74
+Kalamang,S+G,gemma3-12b,41.92
+Kalamang,S+G,gemma3-27b,47.41
+Kalamang,S+G,deepseek-r1-7b,37.58
+Kalamang,S+G,deepseek-r1-32b,46.62
+Kalamang,S+G,llama3-8b,28.35
+Kalamang,S+G,llama3-70b,37.04
+Kalamang,S+G,o4-mini,45.73
+Kalamang,S+G+KP,qwen2.5-7b,62.2
+Kalamang,S+G+KP,qwen2.5-32b,65.19
+Kalamang,S+G+KP,gemma3-4b,52.74
+Kalamang,S+G+KP,gemma3-12b,64.94
+Kalamang,S+G+KP,gemma3-27b,67.99
+Kalamang,S+G+KP,deepseek-r1-7b,54.71
+Kalamang,S+G+KP,deepseek-r1-32b,68.77
+Kalamang,S+G+KP,llama3-8b,44.05
+Kalamang,S+G+KP,llama3-70b,63.11
+Kalamang,S+G+KP,o4-mini,61.59
+Kalamang,S+G+KP+T,qwen2.5-7b,75.3
+Kalamang,S+G+KP+T,qwen2.5-32b,82.16
+Kalamang,S+G+KP+T,gemma3-4b,64.18
+Kalamang,S+G+KP+T,gemma3-12b,77.9
+Kalamang,S+G+KP+T,gemma3-27b,83.08
+Kalamang,S+G+KP+T,deepseek-r1-7b,65.42
+Kalamang,S+G+KP+T,deepseek-r1-32b,86.52
+Kalamang,S+G+KP+T,llama3-8b,54.42
+Kalamang,S+G+KP+T,llama3-70b,80.55
+Kalamang,S+G+KP+T,o4-mini,78.2
+Ulwa,S,qwen2.5-7b,30.25
+Ulwa,S,qwen2.5-32b,34.47
+Ulwa,S,gemma3-4b,26.09
+Ulwa,S,gemma3-12b,41.22
+Ulwa,S,gemma3-27b,39.17
+Ulwa,S,deepseek-r1-7b,34.17
+Ulwa,S,deepseek-r1-32b,34.88
+Ulwa,S,llama3-8b,27.61
+Ulwa,S,llama3-70b,30.09
+Ulwa,S,o4-mini,36.03
+Ulwa,S+G,qwen2.5-7b,34.25
+Ulwa,S+G,qwen2.5-32b,42.86
+Ulwa,S+G,gemma3-4b,30.09
+Ulwa,S+G,gemma3-12b,45.87
+Ulwa,S+G,gemma3-27b,48.68
+Ulwa,S+G,deepseek-r1-7b,33.5
+Ulwa,S+G,deepseek-r1-32b,39.23
+Ulwa,S+G,llama3-8b,27.55
+Ulwa,S+G,llama3-70b,36.2
+Ulwa,S+G,o4-mini,40.46
+Ulwa,S+G+KP,qwen2.5-7b,53.92
+Ulwa,S+G+KP,qwen2.5-32b,61.78
+Ulwa,S+G+KP,gemma3-4b,44.41
+Ulwa,S+G+KP,gemma3-12b,60.08
+Ulwa,S+G+KP,gemma3-27b,64.34
+Ulwa,S+G+KP,deepseek-r1-7b,46.28
+Ulwa,S+G+KP,deepseek-r1-32b,66.39
+Ulwa,S+G+KP,llama3-8b,38.25
+Ulwa,S+G+KP,llama3-70b,57.16
+Ulwa,S+G+KP,o4-mini,55.11
+Ulwa,S+G+KP+T,qwen2.5-7b,65.42
+Ulwa,S+G+KP+T,qwen2.5-32b,73.62
+Ulwa,S+G+KP+T,gemma3-4b,56.94
+Ulwa,S+G+KP+T,gemma3-12b,72.18
+Ulwa,S+G+KP+T,gemma3-27b,75.36
+Ulwa,S+G+KP+T,deepseek-r1-7b,58.2
+Ulwa,S+G+KP+T,deepseek-r1-32b,77.64
+Ulwa,S+G+KP+T,llama3-8b,45.43
+Ulwa,S+G+KP+T,llama3-70b,73.8
+Ulwa,S+G+KP+T,o4-mini,68.99
+Palula,S,qwen2.5-7b,28.73
+Palula,S,qwen2.5-32b,31.06
+Palula,S,gemma3-4b,27.42
+Palula,S,gemma3-12b,35.36
+Palula,S,gemma3-27b,35.19
+Palula,S,deepseek-r1-7b,32.66
+Palula,S,deepseek-r1-32b,32.71
+Palula,S,llama3-8b,30.23
+Palula,S,llama3-70b,31.54
+Palula,S,o4-mini,35.96
+Palula,S+G,qwen2.5-7b,38.47
+Palula,S+G,qwen2.5-32b,40.28
+Palula,S+G,gemma3-4b,37.22
+Palula,S+G,gemma3-12b,40.2
+Palula,S+G,gemma3-27b,43.25
+Palula,S+G,deepseek-r1-7b,32.87
+Palula,S+G,deepseek-r1-32b,43.73
+Palula,S+G,llama3-8b,29.45
+Palula,S+G,llama3-70b,39.14
+Palula,S+G,o4-mini,36.68
+Palula,S+G+KP,qwen2.5-7b,47.91
+Palula,S+G+KP,qwen2.5-32b,50.06
+Palula,S+G+KP,gemma3-4b,45.4
+Palula,S+G+KP,gemma3-12b,47.97
+Palula,S+G+KP,gemma3-27b,50.42
+Palula,S+G+KP,deepseek-r1-7b,39.41
+Palula,S+G+KP,deepseek-r1-32b,54.72
+Palula,S+G+KP,llama3-8b,34.95
+Palula,S+G+KP,llama3-70b,52.15
+Palula,S+G+KP,o4-mini,47.79
+Palula,S+G+KP+T,qwen2.5-7b,67.03
+Palula,S+G+KP+T,qwen2.5-32b,72.87
+Palula,S+G+KP+T,gemma3-4b,59.98
+Palula,S+G+KP+T,gemma3-12b,68.04
+Palula,S+G+KP+T,gemma3-27b,69.71
+Palula,S+G+KP+T,deepseek-r1-7b,54.16
+Palula,S+G+KP+T,deepseek-r1-32b,75.89
+Palula,S+G+KP+T,llama3-8b,44.92
+Palula,S+G+KP+T,llama3-70b,73.78
+Palula,S+G+KP+T,o4-mini,67.74
+Tuatschin,S,qwen2.5-7b,29.29
+Tuatschin,S,qwen2.5-32b,35.13
+Tuatschin,S,gemma3-4b,29.02
+Tuatschin,S,gemma3-12b,41.96
+Tuatschin,S,gemma3-27b,33.69
+Tuatschin,S,deepseek-r1-7b,31.6
+Tuatschin,S,deepseek-r1-32b,40.53
+Tuatschin,S,llama3-8b,28.75
+Tuatschin,S,llama3-70b,30.37
+Tuatschin,S,o4-mini,34.95
+Tuatschin,S+G,qwen2.5-7b,44.65
+Tuatschin,S+G,qwen2.5-32b,49.51
+Tuatschin,S+G,gemma3-4b,35.94
+Tuatschin,S+G,gemma3-12b,44.65
+Tuatschin,S+G,gemma3-27b,46.09
+Tuatschin,S+G,deepseek-r1-7b,33.77
+Tuatschin,S+G,deepseek-r1-32b,58.27
+Tuatschin,S+G,llama3-8b,29.83
+Tuatschin,S+G,llama3-70b,45.64
+Tuatschin,S+G,o4-mini,47.62
+Tuatschin,S+G+KP,qwen2.5-7b,58.58
+Tuatschin,S+G+KP,qwen2.5-32b,62.61
+Tuatschin,S+G+KP,gemma3-4b,48.07
+Tuatschin,S+G+KP,gemma3-12b,60.74
+Tuatschin,S+G+KP,gemma3-27b,61.9
+Tuatschin,S+G+KP,deepseek-r1-7b,42.36
+Tuatschin,S+G+KP,deepseek-r1-32b,71.3
+Tuatschin,S+G+KP,llama3-8b,34.86
+Tuatschin,S+G+KP,llama3-70b,63.43
+Tuatschin,S+G+KP,o4-mini,57.86
+Tuatschin,S+G+KP+T,qwen2.5-7b,72.87
+Tuatschin,S+G+KP+T,qwen2.5-32b,78.43
+Tuatschin,S+G+KP+T,gemma3-4b,62.53
+Tuatschin,S+G+KP+T,gemma3-12b,73.41
+Tuatschin,S+G+KP+T,gemma3-27b,75.83
+Tuatschin,S+G+KP+T,deepseek-r1-7b,57.94
+Tuatschin,S+G+KP+T,deepseek-r1-32b,83.77
+Tuatschin,S+G+KP+T,llama3-8b,47.26
+Tuatschin,S+G+KP+T,llama3-70b,79.34
+Tuatschin,S+G+KP+T,o4-mini,73.94
+Japhug,S,qwen2.5-7b,27.65
+Japhug,S,qwen2.5-32b,31.01
+Japhug,S,gemma3-4b,31.28
+Japhug,S,gemma3-12b,43.3
+Japhug,S,gemma3-27b,45.81
+Japhug,S,deepseek-r1-7b,32.34
+Japhug,S,deepseek-r1-32b,36.49
+Japhug,S,llama3-8b,27.37
+Japhug,S,llama3-70b,32.68
+Japhug,S,o4-mini,36.87
+Japhug,S+G,qwen2.5-7b,38.83
+Japhug,S+G,qwen2.5-32b,51.4
+Japhug,S+G,gemma3-4b,40.5
+Japhug,S+G,gemma3-12b,47.21
+Japhug,S+G,gemma3-27b,53.91
+Japhug,S+G,deepseek-r1-7b,30.33
+Japhug,S+G,deepseek-r1-32b,48.86
+Japhug,S+G,llama3-8b,24.86
+Japhug,S+G,llama3-70b,49.16
+Japhug,S+G,o4-mini,48.6
+Japhug,S+G+KP,qwen2.5-7b,53.35
+Japhug,S+G+KP,qwen2.5-32b,67.04
+Japhug,S+G+KP,gemma3-4b,51.68
+Japhug,S+G+KP,gemma3-12b,63.13
+Japhug,S+G+KP,gemma3-27b,68.44
+Japhug,S+G+KP,deepseek-r1-7b,42.99
+Japhug,S+G+KP,deepseek-r1-32b,64.37
+Japhug,S+G+KP,llama3-8b,37.71
+Japhug,S+G+KP,llama3-70b,61.9
+Japhug,S+G+KP,o4-mini,61.17
+Japhug,S+G+KP+T,qwen2.5-7b,66.2
+Japhug,S+G+KP+T,qwen2.5-32b,81.28
+Japhug,S+G+KP+T,gemma3-4b,67.88
+Japhug,S+G+KP+T,gemma3-12b,75.14
+Japhug,S+G+KP+T,gemma3-27b,80.73
+Japhug,S+G+KP+T,deepseek-r1-7b,54.27
+Japhug,S+G+KP+T,deepseek-r1-32b,83.1
+Japhug,S+G+KP+T,llama3-8b,44.41
+Japhug,S+G+KP+T,llama3-70b,79.05
+Japhug,S+G+KP+T,o4-mini,73.18
+Yauyos Quechua,S,qwen2.5-7b,32.98
+Yauyos Quechua,S,qwen2.5-32b,38.06
+Yauyos Quechua,S,gemma3-4b,31.06
+Yauyos Quechua,S,gemma3-12b,41.29
+Yauyos Quechua,S,gemma3-27b,39.11
+Yauyos Quechua,S,deepseek-r1-7b,31.64
+Yauyos Quechua,S,deepseek-r1-32b,35.19
+Yauyos Quechua,S,llama3-8b,30.36
+Yauyos Quechua,S,llama3-70b,28.35
+Yauyos Quechua,S,o4-mini,43.74
+Yauyos Quechua,S+G,qwen2.5-7b,37.27
+Yauyos Quechua,S+G,qwen2.5-32b,42.91
+Yauyos Quechua,S+G,gemma3-4b,31.41
+Yauyos Quechua,S+G,gemma3-12b,44.01
+Yauyos Quechua,S+G,gemma3-27b,40.86
+Yauyos Quechua,S+G,deepseek-r1-7b,33.43
+Yauyos Quechua,S+G,deepseek-r1-32b,43.25
+Yauyos Quechua,S+G,llama3-8b,28.52
+Yauyos Quechua,S+G,llama3-70b,33.07
+Yauyos Quechua,S+G,o4-mini,39.81
+Yauyos Quechua,S+G+KP,qwen2.5-7b,53.42
+Yauyos Quechua,S+G+KP,qwen2.5-32b,57.62
+Yauyos Quechua,S+G+KP,gemma3-4b,47.51
+Yauyos Quechua,S+G+KP,gemma3-12b,57.13
+Yauyos Quechua,S+G+KP,gemma3-27b,57.66
+Yauyos Quechua,S+G+KP,deepseek-r1-7b,50.66
+Yauyos Quechua,S+G+KP,deepseek-r1-32b,62.79
+Yauyos Quechua,S+G+KP,llama3-8b,35.96
+Yauyos Quechua,S+G+KP,llama3-70b,48.56
+Yauyos Quechua,S+G+KP,o4-mini,53.11
+Yauyos Quechua,S+G+KP+T,qwen2.5-7b,71.92
+Yauyos Quechua,S+G+KP+T,qwen2.5-32b,80.4
+Yauyos Quechua,S+G+KP+T,gemma3-4b,64.36
+Yauyos Quechua,S+G+KP+T,gemma3-12b,76.03
+Yauyos Quechua,S+G+KP+T,gemma3-27b,78.65
+Yauyos Quechua,S+G+KP+T,deepseek-r1-7b,61.34
+Yauyos Quechua,S+G+KP+T,deepseek-r1-32b,84.82
+Yauyos Quechua,S+G+KP+T,llama3-8b,48.56
+Yauyos Quechua,S+G+KP+T,llama3-70b,77.17
+Yauyos Quechua,S+G+KP+T,o4-mini,75.24
+Mehweb,S,qwen2.5-7b,30.59
+Mehweb,S,qwen2.5-32b,25.88
+Mehweb,S,gemma3-4b,20.0
+Mehweb,S,gemma3-12b,25.88
+Mehweb,S,gemma3-27b,30.59
+Mehweb,S,deepseek-r1-7b,25.0
+Mehweb,S,deepseek-r1-32b,34.12
+Mehweb,S,llama3-8b,22.35
+Mehweb,S,llama3-70b,30.59
+Mehweb,S,o4-mini,24.71
+Mehweb,S+G,qwen2.5-7b,31.76
+Mehweb,S+G,qwen2.5-32b,32.94
+Mehweb,S+G,gemma3-4b,25.88
+Mehweb,S+G,gemma3-12b,35.29
+Mehweb,S+G,gemma3-27b,44.71
+Mehweb,S+G,deepseek-r1-7b,21.43
+Mehweb,S+G,deepseek-r1-32b,40.24
+Mehweb,S+G,llama3-8b,27.06
+Mehweb,S+G,llama3-70b,24.71
+Mehweb,S+G,o4-mini,24.71
+Mehweb,S+G+KP,qwen2.5-7b,37.65
+Mehweb,S+G+KP,qwen2.5-32b,32.94
+Mehweb,S+G+KP,gemma3-4b,35.29
+Mehweb,S+G+KP,gemma3-12b,34.12
+Mehweb,S+G+KP,gemma3-27b,51.76
+Mehweb,S+G+KP,deepseek-r1-7b,45.68
+Mehweb,S+G+KP,deepseek-r1-32b,40.0
+Mehweb,S+G+KP,llama3-8b,20.0
+Mehweb,S+G+KP,llama3-70b,30.59
+Mehweb,S+G+KP,o4-mini,31.76
+Mehweb,S+G+KP+T,qwen2.5-7b,60.0
+Mehweb,S+G+KP+T,qwen2.5-32b,63.53
+Mehweb,S+G+KP+T,gemma3-4b,44.71
+Mehweb,S+G+KP+T,gemma3-12b,52.94
+Mehweb,S+G+KP+T,gemma3-27b,70.59
+Mehweb,S+G+KP+T,deepseek-r1-7b,55.0
+Mehweb,S+G+KP+T,deepseek-r1-32b,65.48
+Mehweb,S+G+KP+T,llama3-8b,40.0
+Mehweb,S+G+KP+T,llama3-70b,69.41
+Mehweb,S+G+KP+T,o4-mini,51.76
+Ik,S,qwen2.5-7b,28.57
+Ik,S,qwen2.5-32b,28.57
+Ik,S,gemma3-4b,33.33
+Ik,S,gemma3-12b,38.1
+Ik,S,gemma3-27b,23.81
+Ik,S,deepseek-r1-7b,40.0
+Ik,S,deepseek-r1-32b,33.33
+Ik,S,llama3-8b,28.57
+Ik,S,llama3-70b,19.05
+Ik,S,o4-mini,38.1
+Ik,S+G,qwen2.5-7b,42.86
+Ik,S+G,qwen2.5-32b,47.62
+Ik,S+G,gemma3-4b,57.14
+Ik,S+G,gemma3-12b,38.1
+Ik,S+G,gemma3-27b,42.86
+Ik,S+G,deepseek-r1-7b,25.0
+Ik,S+G,deepseek-r1-32b,47.62
+Ik,S+G,llama3-8b,38.1
+Ik,S+G,llama3-70b,42.86
+Ik,S+G,o4-mini,47.62
+Ik,S+G+KP,qwen2.5-7b,57.14
+Ik,S+G+KP,qwen2.5-32b,57.14
+Ik,S+G+KP,gemma3-4b,57.14
+Ik,S+G+KP,gemma3-12b,57.14
+Ik,S+G+KP,gemma3-27b,66.67
+Ik,S+G+KP,deepseek-r1-7b,30.0
+Ik,S+G+KP,deepseek-r1-32b,80.95
+Ik,S+G+KP,llama3-8b,42.86
+Ik,S+G+KP,llama3-70b,66.67
+Ik,S+G+KP,o4-mini,61.9
+Ik,S+G+KP+T,qwen2.5-7b,90.48
+Ik,S+G+KP+T,qwen2.5-32b,95.24
+Ik,S+G+KP+T,gemma3-4b,85.71
+Ik,S+G+KP+T,gemma3-12b,71.43
+Ik,S+G+KP+T,gemma3-27b,90.48
+Ik,S+G+KP+T,deepseek-r1-7b,76.47
+Ik,S+G+KP+T,deepseek-r1-32b,95.24
+Ik,S+G+KP+T,llama3-8b,61.9
+Ik,S+G+KP+T,llama3-70b,100.0
+Ik,S+G+KP+T,o4-mini,90.48

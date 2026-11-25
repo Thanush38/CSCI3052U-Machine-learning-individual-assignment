@@ -1,0 +1,13 @@
+level,model,accuracy
+S,qwen2.5-7b,33.04
+S+G,qwen2.5-7b,41.64
+S+G+KP,qwen2.5-7b,56.08
+S+G+KP+T,qwen2.5-7b,71.09
+S,qwen2.5-32b,38.66
+S+G,qwen2.5-32b,46.75
+S+G+KP,qwen2.5-32b,60.97
+S+G+KP+T,qwen2.5-32b,78.29
+S+T,qwen2.5-7b,48.65
+S+KP,qwen2.5-7b,52.78
+S+G+T,qwen2.5-7b,66.59
+S+KP+T,qwen2.5-7b,59.12
