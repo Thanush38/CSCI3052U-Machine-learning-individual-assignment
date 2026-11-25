@@ -1,0 +1,18 @@
+{
+  "questions": "data/processed/released_sample.jsonl",
+  "run": "exp1_released_qwen7b",
+  "mode": "score",
+  "model": "Qwen2.5-7B-Instruct",
+  "levels": [
+    "S",
+    "S+G",
+    "S+G+KP",
+    "S+G+KP+T"
+  ],
+  "n_questions": 450,
+  "batch_size": 4,
+  "seed": 42,
+  "max_new_tokens": 32,
+  "hf_model": "Qwen/Qwen2.5-7B-Instruct",
+  "quantization": "4bit"
+}

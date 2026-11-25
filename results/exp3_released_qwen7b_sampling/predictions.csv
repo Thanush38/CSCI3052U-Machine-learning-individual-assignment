@@ -1,0 +1,601 @@
+id,language,source,level,mode,model,pred,answer,correct,raw
+Kalamang/min_knowledge_points_17OtherTopics_questions#q21,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q55,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_05Wordclasses_questions#q10,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_11Verbs_questions#q0,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q34,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q12,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_07Pronouns_questions#q15,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q45,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,D,A,0,D
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q5,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Kalamang/min_knowledge_points_06Nouns_questions#q30,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q51,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q66,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_05Wordclasses_questions#q17,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_05Wordclasses_questions#q15,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q36,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q7,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q22,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_14Clausemod_questions#q49,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_16InformationStructure_questions#q6,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_05Wordclasses_questions#q12,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q21,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_09Possessive_questions#q19,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_17OtherTopics_questions#q14,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q63,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q9,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q93,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q50,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Kalamang/min_knowledge_points_11Verbs_questions#q3,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_04MorphologicalUnits_questions#q6,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_08Quantifiers_questions#q3,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_17OtherTopics_questions#q11,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Kalamang/min_knowledge_points_12Clause_questions#q7,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_16InformationStructure_questions#q18,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_07Pronouns_questions#q32,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q4,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_12Clause_questions#q3,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Kalamang/min_knowledge_points_17OtherTopics_questions#q15,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_06Nouns_questions#q35,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q23,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q40,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q1,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,D,B,0,D
+Kalamang/min_knowledge_points_12Clause_questions#q11,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q54,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_05Wordclasses_questions#q29,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_14Clausemod_questions#q2,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Kalamang/min_knowledge_points_14Clausemod_questions#q81,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_07Pronouns_questions#q0,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q21,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q21,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q12,Kalamang,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q8,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_04_questions#q32,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q14,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_13_questions#q71,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_08_questions#q241,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q2,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q30,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_10_questions#q230,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q316,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_11_questions#q268,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_04_questions#q78,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_11_questions#q41,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q99,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_11_questions#q62,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q195,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q205,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_09_questions#q238,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_07_questions#q272,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,D,A,0,D
+Papuan_Malay/min_knowledge_points_08_questions#q169,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q356,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q113,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_08_questions#q79,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_13_questions#q48,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_09_questions#q20,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q59,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_05_questions#q547,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_08_questions#q126,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_11_questions#q19,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_10_questions#q222,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_10_questions#q58,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q503,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_10_questions#q153,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_06_questions#q304,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_06_questions#q662,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_09_questions#q287,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Papuan_Malay/min_knowledge_points_09_questions#q197,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_06_questions#q557,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q120,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_13_questions#q159,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Papuan_Malay/min_knowledge_points_08_questions#q37,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q175,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_05_questions#q175,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Papuan_Malay/min_knowledge_points_06_questions#q43,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_05_questions#q600,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_04_questions#q57,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q412,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_03_questions#q16,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_08_questions#q327,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q186,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q622,Papuan Malay,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_10_questions#q126,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_12_questions#q21,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_09_questions#q289,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_06_questions#q303,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_06_questions#q446,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Pichi/min_knowledge_points_07_questions#q401,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_07_questions#q77,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_05_questions#q186,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_10_questions#q222,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_10_questions#q70,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_05_questions#q196,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q470,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_05_questions#q181,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q152,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Pichi/min_knowledge_points_10_questions#q242,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_09_questions#q248,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Pichi/min_knowledge_points_09_questions#q355,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_10_questions#q25,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_06_questions#q313,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q179,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_09_questions#q376,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_05_questions#q275,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_06_questions#q430,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_05_questions#q227,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_10_questions#q287,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q225,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_13_questions#q15,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_07_questions#q149,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_08_questions#q171,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Pichi/min_knowledge_points_06_questions#q160,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_10_questions#q183,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Pichi/min_knowledge_points_07_questions#q194,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Pichi/min_knowledge_points_10_questions#q221,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_10_questions#q285,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q109,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Pichi/min_knowledge_points_11_questions#q15,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_06_questions#q4,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_09_questions#q13,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_12_questions#q2,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_10_questions#q240,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Pichi/min_knowledge_points_10_questions#q165,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_09_questions#q437,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_07_questions#q481,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q254,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_07_questions#q22,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_12_questions#q53,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Pichi/min_knowledge_points_07_questions#q472,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q163,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_07_questions#q273,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_08_questions#q139,Pichi,linggym_released,S,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_17OtherTopics_questions#q21,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_06Nouns_questions#q55,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_05Wordclasses_questions#q10,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_11Verbs_questions#q0,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q34,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q12,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_07Pronouns_questions#q15,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q45,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q5,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Kalamang/min_knowledge_points_06Nouns_questions#q30,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q51,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q66,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Kalamang/min_knowledge_points_05Wordclasses_questions#q17,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_05Wordclasses_questions#q15,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_06Nouns_questions#q36,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q7,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q22,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_14Clausemod_questions#q49,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_16InformationStructure_questions#q6,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_05Wordclasses_questions#q12,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q21,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_09Possessive_questions#q19,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_17OtherTopics_questions#q14,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q63,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q9,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q93,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q50,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_11Verbs_questions#q3,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_04MorphologicalUnits_questions#q6,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Kalamang/min_knowledge_points_08Quantifiers_questions#q3,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_17OtherTopics_questions#q11,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_12Clause_questions#q7,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Kalamang/min_knowledge_points_16InformationStructure_questions#q18,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_07Pronouns_questions#q32,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q4,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_12Clause_questions#q3,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Kalamang/min_knowledge_points_17OtherTopics_questions#q15,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_06Nouns_questions#q35,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q23,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q40,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q1,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_12Clause_questions#q11,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q54,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_05Wordclasses_questions#q29,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_14Clausemod_questions#q2,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_14Clausemod_questions#q81,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_07Pronouns_questions#q0,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q21,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q21,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q12,Kalamang,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q8,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Papuan_Malay/min_knowledge_points_04_questions#q32,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q14,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_13_questions#q71,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q241,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_05_questions#q2,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q30,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_10_questions#q230,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_07_questions#q316,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_11_questions#q268,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_04_questions#q78,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_11_questions#q41,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q99,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_11_questions#q62,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q195,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q205,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Papuan_Malay/min_knowledge_points_09_questions#q238,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_07_questions#q272,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Papuan_Malay/min_knowledge_points_08_questions#q169,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Papuan_Malay/min_knowledge_points_05_questions#q356,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Papuan_Malay/min_knowledge_points_06_questions#q113,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_08_questions#q79,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_13_questions#q48,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_09_questions#q20,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q59,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_05_questions#q547,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_08_questions#q126,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_11_questions#q19,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_10_questions#q222,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_10_questions#q58,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q503,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_10_questions#q153,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,A,0,D
+Papuan_Malay/min_knowledge_points_06_questions#q304,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_06_questions#q662,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_09_questions#q287,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Papuan_Malay/min_knowledge_points_09_questions#q197,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_06_questions#q557,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Papuan_Malay/min_knowledge_points_07_questions#q120,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_13_questions#q159,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Papuan_Malay/min_knowledge_points_08_questions#q37,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q175,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_05_questions#q175,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Papuan_Malay/min_knowledge_points_06_questions#q43,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_05_questions#q600,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_04_questions#q57,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q412,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_03_questions#q16,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_08_questions#q327,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q186,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q622,Papuan Malay,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_10_questions#q126,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_12_questions#q21,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_09_questions#q289,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_06_questions#q303,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_06_questions#q446,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Pichi/min_knowledge_points_07_questions#q401,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q77,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q186,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_10_questions#q222,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_10_questions#q70,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_05_questions#q196,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Pichi/min_knowledge_points_07_questions#q470,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_05_questions#q181,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q152,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_10_questions#q242,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_09_questions#q248,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_09_questions#q355,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_10_questions#q25,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_06_questions#q313,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q179,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_09_questions#q376,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Pichi/min_knowledge_points_05_questions#q275,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_06_questions#q430,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Pichi/min_knowledge_points_05_questions#q227,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_10_questions#q287,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q225,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_13_questions#q15,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_07_questions#q149,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_08_questions#q171,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_06_questions#q160,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Pichi/min_knowledge_points_10_questions#q183,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q194,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Pichi/min_knowledge_points_10_questions#q221,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_10_questions#q285,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q109,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Pichi/min_knowledge_points_11_questions#q15,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_06_questions#q4,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_09_questions#q13,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_12_questions#q2,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_10_questions#q240,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Pichi/min_knowledge_points_10_questions#q165,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_09_questions#q437,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_07_questions#q481,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q254,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_07_questions#q22,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_12_questions#q53,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q472,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q163,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_07_questions#q273,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_08_questions#q139,Pichi,linggym_released,S+G,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_17OtherTopics_questions#q21,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_06Nouns_questions#q55,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_05Wordclasses_questions#q10,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_11Verbs_questions#q0,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q34,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q12,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_07Pronouns_questions#q15,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q45,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q5,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_06Nouns_questions#q30,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q51,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q66,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Kalamang/min_knowledge_points_05Wordclasses_questions#q17,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_05Wordclasses_questions#q15,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_06Nouns_questions#q36,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q7,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_10Demonstratives_questions#q22,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_14Clausemod_questions#q49,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_16InformationStructure_questions#q6,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_05Wordclasses_questions#q12,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q21,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_09Possessive_questions#q19,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_17OtherTopics_questions#q14,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q63,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q9,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q93,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q50,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_11Verbs_questions#q3,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Kalamang/min_knowledge_points_04MorphologicalUnits_questions#q6,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_08Quantifiers_questions#q3,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_17OtherTopics_questions#q11,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_12Clause_questions#q7,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_16InformationStructure_questions#q18,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_07Pronouns_questions#q32,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q4,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_12Clause_questions#q3,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_17OtherTopics_questions#q15,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_06Nouns_questions#q35,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q23,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_06Nouns_questions#q40,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q1,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,B,0,D
+Kalamang/min_knowledge_points_12Clause_questions#q11,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_10Demonstratives_questions#q54,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_05Wordclasses_questions#q29,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_14Clausemod_questions#q2,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_14Clausemod_questions#q81,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_07Pronouns_questions#q0,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q21,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Kalamang/min_knowledge_points_06Nouns_questions#q21,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q12,Kalamang,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_06_questions#q8,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_04_questions#q32,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q14,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_13_questions#q71,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q241,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_05_questions#q2,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_05_questions#q30,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_10_questions#q230,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_07_questions#q316,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_11_questions#q268,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_04_questions#q78,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_11_questions#q41,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q99,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Papuan_Malay/min_knowledge_points_11_questions#q62,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q195,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q205,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Papuan_Malay/min_knowledge_points_09_questions#q238,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_07_questions#q272,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Papuan_Malay/min_knowledge_points_08_questions#q169,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Papuan_Malay/min_knowledge_points_05_questions#q356,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Papuan_Malay/min_knowledge_points_06_questions#q113,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Papuan_Malay/min_knowledge_points_08_questions#q79,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_13_questions#q48,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_09_questions#q20,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q59,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_05_questions#q547,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_08_questions#q126,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_11_questions#q19,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_10_questions#q222,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_10_questions#q58,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q503,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_10_questions#q153,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,A,0,D
+Papuan_Malay/min_knowledge_points_06_questions#q304,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_06_questions#q662,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_09_questions#q287,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Papuan_Malay/min_knowledge_points_09_questions#q197,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_06_questions#q557,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Papuan_Malay/min_knowledge_points_07_questions#q120,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_13_questions#q159,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_08_questions#q37,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q175,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_05_questions#q175,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_06_questions#q43,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_05_questions#q600,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_04_questions#q57,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q412,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_03_questions#q16,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_08_questions#q327,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q186,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q622,Papuan Malay,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_10_questions#q126,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_12_questions#q21,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_09_questions#q289,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_06_questions#q303,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_06_questions#q446,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q401,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q77,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q186,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_10_questions#q222,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_10_questions#q70,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q196,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q470,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_05_questions#q181,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q152,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Pichi/min_knowledge_points_10_questions#q242,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_09_questions#q248,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_09_questions#q355,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_10_questions#q25,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_06_questions#q313,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q179,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_09_questions#q376,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Pichi/min_knowledge_points_05_questions#q275,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_06_questions#q430,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Pichi/min_knowledge_points_05_questions#q227,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_10_questions#q287,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q225,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_13_questions#q15,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_07_questions#q149,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_08_questions#q171,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Pichi/min_knowledge_points_06_questions#q160,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_10_questions#q183,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q194,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Pichi/min_knowledge_points_10_questions#q221,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_10_questions#q285,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Pichi/min_knowledge_points_05_questions#q109,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_11_questions#q15,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_06_questions#q4,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_09_questions#q13,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_12_questions#q2,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_10_questions#q240,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_10_questions#q165,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_09_questions#q437,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_07_questions#q481,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q254,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_07_questions#q22,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_12_questions#q53,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q472,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q163,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_07_questions#q273,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_08_questions#q139,Pichi,linggym_released,S+G+KP,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_17OtherTopics_questions#q21,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_06Nouns_questions#q55,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_05Wordclasses_questions#q10,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_11Verbs_questions#q0,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q34,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q12,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,A,0,B
+Kalamang/min_knowledge_points_07Pronouns_questions#q15,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_06Nouns_questions#q45,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q5,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_06Nouns_questions#q30,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q51,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q66,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_05Wordclasses_questions#q17,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_05Wordclasses_questions#q15,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_06Nouns_questions#q36,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q7,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_10Demonstratives_questions#q22,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_14Clausemod_questions#q49,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_16InformationStructure_questions#q6,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_05Wordclasses_questions#q12,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q21,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Kalamang/min_knowledge_points_09Possessive_questions#q19,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_17OtherTopics_questions#q14,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q63,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_10Demonstratives_questions#q9,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q93,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q50,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_11Verbs_questions#q3,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_04MorphologicalUnits_questions#q6,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_08Quantifiers_questions#q3,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_17OtherTopics_questions#q11,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Kalamang/min_knowledge_points_12Clause_questions#q7,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_16InformationStructure_questions#q18,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_07Pronouns_questions#q32,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_10Demonstratives_questions#q4,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_12Clause_questions#q3,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_17OtherTopics_questions#q15,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_06Nouns_questions#q35,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q23,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_06Nouns_questions#q40,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q1,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Kalamang/min_knowledge_points_12Clause_questions#q11,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_10Demonstratives_questions#q54,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_05Wordclasses_questions#q29,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_14Clausemod_questions#q2,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Kalamang/min_knowledge_points_14Clausemod_questions#q81,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Kalamang/min_knowledge_points_07Pronouns_questions#q0,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_13ComplexPredicates_questions#q21,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Kalamang/min_knowledge_points_06Nouns_questions#q21,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Kalamang/min_knowledge_points_15MulticlausalConstructions_questions#q12,Kalamang,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q8,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_04_questions#q32,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_06_questions#q14,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_13_questions#q71,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q241,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_05_questions#q2,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_05_questions#q30,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_10_questions#q230,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_07_questions#q316,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_11_questions#q268,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_04_questions#q78,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_11_questions#q41,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q99,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_11_questions#q62,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_05_questions#q195,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q205,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_09_questions#q238,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_07_questions#q272,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Papuan_Malay/min_knowledge_points_08_questions#q169,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Papuan_Malay/min_knowledge_points_05_questions#q356,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Papuan_Malay/min_knowledge_points_06_questions#q113,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Papuan_Malay/min_knowledge_points_08_questions#q79,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_13_questions#q48,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_09_questions#q20,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_07_questions#q59,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_05_questions#q547,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_08_questions#q126,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_11_questions#q19,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_10_questions#q222,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_10_questions#q58,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_05_questions#q503,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_10_questions#q153,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_06_questions#q304,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_06_questions#q662,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_09_questions#q287,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_09_questions#q197,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_06_questions#q557,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Papuan_Malay/min_knowledge_points_07_questions#q120,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,B,0,C
+Papuan_Malay/min_knowledge_points_13_questions#q159,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_08_questions#q37,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Papuan_Malay/min_knowledge_points_07_questions#q175,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_05_questions#q175,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_06_questions#q43,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Papuan_Malay/min_knowledge_points_05_questions#q600,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_04_questions#q57,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Papuan_Malay/min_knowledge_points_06_questions#q412,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_03_questions#q16,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Papuan_Malay/min_knowledge_points_08_questions#q327,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Papuan_Malay/min_knowledge_points_08_questions#q186,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Papuan_Malay/min_knowledge_points_05_questions#q622,Papuan Malay,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_10_questions#q126,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_12_questions#q21,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_09_questions#q289,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_06_questions#q303,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_06_questions#q446,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q401,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q77,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q186,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_10_questions#q222,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_10_questions#q70,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q196,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q470,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_05_questions#q181,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_05_questions#q152,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,A,0,C
+Pichi/min_knowledge_points_10_questions#q242,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_09_questions#q248,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_09_questions#q355,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_10_questions#q25,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,B,0,A
+Pichi/min_knowledge_points_06_questions#q313,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_05_questions#q179,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_09_questions#q376,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_05_questions#q275,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_06_questions#q430,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Pichi/min_knowledge_points_05_questions#q227,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,C,0,D
+Pichi/min_knowledge_points_10_questions#q287,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,D,0,A
+Pichi/min_knowledge_points_05_questions#q225,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_13_questions#q15,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_07_questions#q149,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_08_questions#q171,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_06_questions#q160,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_10_questions#q183,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q194,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,D,0,C
+Pichi/min_knowledge_points_10_questions#q221,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_10_questions#q285,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_05_questions#q109,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,C,0,B
+Pichi/min_knowledge_points_11_questions#q15,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,C,0,A
+Pichi/min_knowledge_points_06_questions#q4,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_09_questions#q13,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_12_questions#q2,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,D,0,B
+Pichi/min_knowledge_points_10_questions#q240,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_10_questions#q165,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_09_questions#q437,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_07_questions#q481,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q254,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_07_questions#q22,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_12_questions#q53,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,A,1,A
+Pichi/min_knowledge_points_07_questions#q472,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,B,B,1,B
+Pichi/min_knowledge_points_07_questions#q163,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,C,C,1,C
+Pichi/min_knowledge_points_07_questions#q273,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,D,D,1,D
+Pichi/min_knowledge_points_08_questions#q139,Pichi,linggym_released,S+G+KP+T,generate,Qwen2.5-7B-Instruct,A,B,0,A

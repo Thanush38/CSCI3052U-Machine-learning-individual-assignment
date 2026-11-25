@@ -1,0 +1,13 @@
+{
+  "python": "3.13.16",
+  "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+  "time": "2026-11-25 14:37:43",
+  "torch": "2.14.1+cu130",
+  "transformers": "5.22.1",
+  "accelerate": "1.15.0",
+  "bitsandbytes": "0.50.2",
+  "sentence_transformers": "5.7.0",
+  "numpy": "2.4.6",
+  "pandas": "2.2.3",
+  "gpu": "Tesla T4"
+}

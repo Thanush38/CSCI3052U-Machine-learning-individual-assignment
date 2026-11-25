@@ -29,7 +29,7 @@ translation (**T**). Accuracy climbs with every hint (Qwen2.5-7B: 33% → 42% �
 ```
 linggym-repro/
 ├── README.md
-├── requirements.txt          # exact versions used for development
+├── requirements.txt          # versions used for our results
 ├── requirements-colab.txt    # minimal installs on top of Google Colab
 ├── notebook/linggym_reproduction.ipynb  # ★ the whole pipeline in one notebook: data → our generator → live demo → experiments → results
 ├── src/                      # all the algorithm code, imported by the notebook
@@ -95,26 +95,40 @@ for a smaller model, `QUANTIZATION = "none"` for full precision. For the paper's
 
 - **Seeds:** `src/seed.py` seeds `random`, `numpy`, `torch` (+CUDA) and turns on cuDNN determinism; the notebook calls `set_seed(SEED)` before anything else. The seed is also stored in `results/<run>/config.json`.
 - **Data version:** the notebook checks out a fixed commit of the authors' repo (`DATA_COMMIT` in Settings); the processed question files are committed in `data/processed/`.
-- **Library versions:** `requirements.txt` (development) and `results/<run>/environment.json` (versions + GPU of each actual run). The notebook also saves `results/colab_pip_freeze.txt`.
+- **Library versions:** `requirements.txt` (versions from our Colab run) and `results/<run>/environment.json` (versions + GPU of each actual run). The notebook also saves `results/colab_pip_freeze.txt`.
 - **Determinism:** scoring mode has no sampling. Position ids are set explicitly so left padding (batch size) doesn't shift the input. Different GPU models can still differ in the last decimal place of a logit.
 
 ---
 
 ## Results
 
-Our numbers come from `results/comparison.csv`.
+Qwen2.5-7B-Instruct (4-bit) on a Colab T4, 150 questions each from Pichi, Papuan Malay and Kalamang.
+*Paper (matched)* = the paper's Appendix B numbers for these 3 languages. Δ = ours − paper (matched).
+All numbers are accuracy (%) from `results/comparison.csv` and `results/exp*/accuracy.csv`.
 
-Qwen2.5-7B-Instruct, 450 released questions (150 × Pichi, Papuan Malay, Kalamang).
-*Paper (matched)* = the paper's Appendix B accuracies for these 3 languages; *Paper (all 18)* = Table 3.
-
-| Level | Paper (all 18) | Paper (matched) | Ours: released (Exp 1) | Δ | Ours: own generator (Exp 2) | Random (Exp 0) |
-|---|---|---|---|---|---|---|
-| S | 33.0 | 33.4 | | | | |
-| S+G | 41.6 | 41.5 | | | | |
-| S+G+KP | 56.1 | 60.4 | | | | |
-| S+G+KP+T | 71.1 | 75.6 | | | | |
+| Level | Paper (all 18) | Paper (matched) | Exp 1: released questions | Δ | Exp 2: our questions | Δ | Exp 0: random |
+|---|---|---|---|---|---|---|---|
+| S | 33.0 | 33.4 | 34.2 | +0.9 | 29.9 | −3.5 | 26.9 |
+| S+G | 41.6 | 41.5 | 40.2 | −1.3 | 35.9 | −5.6 | 26.4 |
+| S+G+KP | 56.1 | 60.4 | 60.7 | +0.3 | 52.9 | −7.5 | 22.2 |
+| S+G+KP+T | 71.1 | 75.6 | 75.8 | +0.2 | 69.2 | −6.4 | 23.1 |
 
 ![results](figures/results_vs_paper.png)
+
+**What this shows**
+- **Exp 1 reproduces the paper.** On the authors' questions we are within 1.3 points of the paper at every level, and the paper's number is inside our 95% confidence interval every time.
+- **Same trend as the paper:** accuracy rises with every hint (34 → 40 → 61 → 76%), well above random guessing (22–27%).
+- **Exp 2: our generator makes harder questions** (3–7 points lower). Across all levels, the model's wrong answers were mostly our LCS (386) or Sentence-BERT (373) distractors rather than the random chapter one (191), so those two strategies make convincing wrong options. We also mask the answer in the grammar explanation more thoroughly (see below), which likely removes some free hints.
+- **Exp 3: our scoring shortcut doesn't change the result.** On the same 150 questions, the paper's sampling method and our scoring method are within 3 points at every level, and no sampled reply was unparseable:
+
+| Level | Scoring (ours) | Sampling (paper's method) |
+|---|---|---|
+| S | 32.0 | 29.3 |
+| S+G | 42.0 | 40.0 |
+| S+G+KP | 57.3 | 58.0 |
+| S+G+KP+T | 74.7 | 74.0 |
+
+Per-language results are in `results/exp*/accuracy_by_language.csv`.
 
 ---
 

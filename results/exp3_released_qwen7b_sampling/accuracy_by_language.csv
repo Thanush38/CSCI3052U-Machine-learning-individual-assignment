@@ -1,0 +1,13 @@
+level,language,n,accuracy,ci_low,ci_high,unparsed
+S,Kalamang,50,22.0,12.0,34.0,0
+S,Papuan Malay,50,34.0,20.0,48.0,0
+S,Pichi,50,32.0,20.0,44.0,0
+S+G,Kalamang,50,36.0,22.0,48.0,0
+S+G,Papuan Malay,50,34.0,20.0,48.0,0
+S+G,Pichi,50,50.0,36.0,62.04999999999973,0
+S+G+KP,Kalamang,50,62.0,48.0,76.0,0
+S+G+KP,Papuan Malay,50,52.0,38.0,66.0,0
+S+G+KP,Pichi,50,60.0,46.0,74.0,0
+S+G+KP+T,Kalamang,50,74.0,61.95,86.0,0
+S+G+KP+T,Papuan Malay,50,78.0,66.0,88.04999999999973,0
+S+G+KP+T,Pichi,50,70.0,56.00000000000001,82.0,0

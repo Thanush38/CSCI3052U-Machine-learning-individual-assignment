@@ -1,14 +1,13 @@
-# Pinned versions (Python 3.10+).
-# For Google Colab use requirements-colab.txt instead (keeps Colab's own torch).
-# The versions actually used in each run are also saved to results/<run>/environment.json.
-torch==2.15.0
-transformers==5.24.1
-accelerate==1.16.0
-bitsandbytes==0.50.2          # 4-bit loading (NVIDIA GPU only)
-sentence-transformers==6.3.0  # semantic distractors in our own generator
-numpy==2.5.3
-pandas==3.0.5
-scikit-learn==1.9.1           # TF-IDF fallback when Sentence-BERT can't be downloaded
-matplotlib==3.11.2
-tqdm==4.70.1
-jupyter
+# Versions from the Google Colab run that produced results/ (Python 3.13, Tesla T4).
+# Full list: results/colab_pip_freeze.txt. In Colab, the notebook installs requirements-colab.txt instead.
+torch==2.14.1
+transformers==5.22.1
+accelerate==1.15.0
+bitsandbytes==0.50.2
+sentence-transformers==5.7.0
+numpy==2.4.6
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.0
+tqdm==4.67.3
+notebook==6.5.7
