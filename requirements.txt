@@ -1,5 +1,4 @@
-# Versions from the Google Colab run that produced results/ (Python 3.13, Tesla T4).
-# Full list: results/colab_pip_freeze.txt. In Colab, the notebook installs requirements-colab.txt instead.
+# versions from the Colab run (Python 3.13, T4)
 torch==2.14.1
 transformers==5.22.1
 accelerate==1.15.0

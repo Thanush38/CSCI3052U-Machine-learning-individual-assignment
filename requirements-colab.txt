@@ -1,5 +1,4 @@
-# Installed on top of Google Colab's pre-installed stack (torch, numpy, pandas...).
-# Exact versions from your session are saved by notebook 03 to results/colab_pip_freeze.txt
+# extra packages for Colab
 transformers>=4.51
 accelerate>=1.0
 bitsandbytes>=0.45
