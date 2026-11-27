@@ -2,6 +2,8 @@
 
 Thanush Dinesh, CSCI3052U Machine Learning, individual assignment (hacker & implementer).
 
+**Video presentation:** https://drive.google.com/file/d/1Vd31ur6CU9hPJfzFkcRl4xl-IwZM9zj9/view?usp=sharing
+
 Reproduction of Yang, Ma, Shi & Zhu, *LingGym: How Far Are LLMs from Thinking Like Field Linguists?*, EMNLP 2025 ([paper](https://aclanthology.org/2025.emnlp-main.69/), [authors' repo](https://github.com/changbingY/LingGym)).
 
 LingGym takes example sentences from 18 grammar books, hides one word, and asks an LLM to pick the right word + gloss from 4 options. The model gets more hints each time: sentence only (S), + gloss (G), + grammar explanation (KP), + English translation (T). In the paper Qwen2.5-7B goes 33% → 42% → 56% → 71% (chance is 25%).
